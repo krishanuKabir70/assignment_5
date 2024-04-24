@@ -1,0 +1,3 @@
+* All of the files from dev branch is fetched here on test branch *
+
+This newly txt file is created on the test branch. 
